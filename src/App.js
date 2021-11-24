@@ -21,7 +21,7 @@ const App = () => {
 
   return (
     <ContainerDiv>
-      Employee Portal
+      <div>Employee Portal </div>
       {/* using empData write your logic to use Emp and EmpDetails components to show the required table */}
     </ContainerDiv>
   );
