@@ -11,7 +11,6 @@
     "empId": 12,
     "employeeName": "Steve",
     "role": "Developer",
-    "grade": 7,
     "contact": "0404040404",
     "reportingManager": "Paul",
     "billingProject": "SCATS"
@@ -20,7 +19,6 @@
     "empId": 14,
     "employeeName": "Philippe",
     "role": "Tester",
-    "grade": 7,
     "contact": "0404040404",
     "reportingManager": "Paul",
     "billingProject": "SCATS"
@@ -29,7 +27,6 @@
     "empId": 20,
     "employeeName": "James",
     "role": "BA",
-    "grade": 8,
     "contact": "0404040404",
     "reportingManager": "Paul",
     "billingProject": "SCATS"
