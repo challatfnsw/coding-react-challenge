@@ -1,0 +1,53 @@
+[
+  {
+    "empId": 10,
+    "employeeName": "Paul",
+    "role": "Project Manager",
+    "contact": "0404040404",
+    "reportingManager": "John",
+    "billingProject": "SCATS"
+  },
+  {
+    "empId": 12,
+    "employeeName": "Steve",
+    "role": "Developer",
+    "grade": 7,
+    "contact": "0404040404",
+    "reportingManager": "Paul",
+    "billingProject": "SCATS"
+  },
+  {
+    "empId": 14,
+    "employeeName": "Philippe",
+    "role": "Tester",
+    "grade": 7,
+    "contact": "0404040404",
+    "reportingManager": "Paul",
+    "billingProject": "SCATS"
+  },
+  {
+    "empId": 20,
+    "employeeName": "James",
+    "role": "BA",
+    "grade": 8,
+    "contact": "0404040404",
+    "reportingManager": "Paul",
+    "billingProject": "SCATS"
+  },
+  {
+    "empId": 19,
+    "employeeName": "Jed",
+    "role": "Developer",
+    "contact": "0404040404",
+    "reportingManager": "Paul",
+    "billingProject": "SCATS"
+  },
+  {
+    "empId": 30,
+    "employeeName": "Snape",
+    "role": "Developer",
+    "contact": "0404040404",
+    "reportingManager": "Paul",
+    "billingProject": "SCATS"
+  }
+]
